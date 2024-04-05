@@ -13,6 +13,4 @@
 პირველი არის Pie ჩარტი, სადაც წარმოდგენილია სამუშაო ტიპების პროცენტულობა.
 მეორე არის Bar ჩარტი, სადაც წარმოდგენილია რა განათლება აქვთ მიღებული და რაოდებობა.
 
-![alt text](![image](https://github.com/tsnini/stack-overflow-developer-survey-2023/assets/91785804/0a0f7d76-2ab9-497f-b2b9-a5421a552f44)
-)
-
+![Alt text]("D:\Desktop\Screenshot 2024-04-06 012858.png")
